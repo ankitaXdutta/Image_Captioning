@@ -56,14 +56,6 @@ caption.
 * Greedy Search Algorithm was used to select the words with maximum probability.
 * BLEU Score was used as evaluation metrics.
 
-## RESULTS
-* Generated captions on test images:
-- ![](images/caption3.JPG)
-- ![](images/caption4.JPG)
-
-#### UI was created using Tkinter.
-Screenshot:
-- ![](images/ui.JPG)
 
 #### Summary
 1. Image sent to CNN(Resnet50).
